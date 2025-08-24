@@ -1,29 +1,5 @@
 [
   {
-    "Id": "4",
-    "Version": "SR_V2",
-    "Date": "24 August 2025",
-    "Type": "both",
-    "Changes": [
-      {
-        "Type": "fixed",
-        "Description": "Everything"
-      },
-      {
-        "Type": "added",
-        "Description": "Everything"
-      },
-      {
-        "Type": "improved",
-        "Description": "Everythig"
-      },
-      {
-        "Type": "removed",
-        "Description": "Nothing"
-      }
-    ]
-  },
-  {
     "Id": "1",
     "Version": "Test",
     "Date": "Test",

@@ -1,29 +1,5 @@
 [
   {
-    "Id": "4",
-    "Version": "v1",
-    "Date": "24 August 2025",
-    "Type": "both",
-    "Changes": [
-      {
-        "Type": "added",
-        "Description": "Test"
-      },
-      {
-        "Type": "improved",
-        "Description": "SKIBIDI"
-      },
-      {
-        "Type": "removed",
-        "Description": "you"
-      },
-      {
-        "Type": "fixed",
-        "Description": "byd"
-      }
-    ]
-  },
-  {
     "Id": "1",
     "Version": "Test",
     "Date": "Test",

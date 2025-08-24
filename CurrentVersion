@@ -1,6 +1,14 @@
-{
-  "CurrentVersion": {
-    "SlapRoyale": "SR_V2",
-    "SlapBattles": "SB_V"
+[
+  {
+    "Id": "1",
+    "Version": "v1",
+    "Date": "24 August 2025",
+    "Type": "both",
+    "Changes": [
+      {
+        "Type": "added",
+        "Description": "yes"
+      }
+    ]
   }
-}
+]

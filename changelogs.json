@@ -1,29 +1,5 @@
 [
   {
-    "Id": "1",
-    "Version": "Test",
-    "Date": "Test",
-    "Type": "both",
-    "Changes": [
-      {
-        "Type": "added",
-        "Description": "asdasdsfgdgfsadgad"
-      },
-      {
-        "Type": "fixed",
-        "Description": "asdgagsdgdaf agfag sasgd"
-      },
-      {
-        "Type": "improved",
-        "Description": " sadfs fadfsdafds a fsda"
-      },
-      {
-        "Type": "removed",
-        "Description": "sfad fsda sfdafsd afsda "
-      }
-    ]
-  },
-  {
     "Id": "2",
     "Version": "test",
     "Date": "test",

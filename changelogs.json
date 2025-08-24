@@ -1,21 +1,5 @@
 [
   {
-    "Id": "4",
-    "Version": "v69",
-    "Date": "24 August 2025",
-    "Type": "both",
-    "Changes": [
-      {
-        "Type": "added",
-        "Description": "Bootie"
-      },
-      {
-        "Type": "removed",
-        "Description": "VINQ HUB"
-      }
-    ]
-  },
-  {
     "Id": "1",
     "Version": "Test",
     "Date": "Test",

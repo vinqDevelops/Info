@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "Id": "1",
+    "Version": "Website",
+    "Date": "24 August 2025",
+    "Type": "both",
+    "Changes": [
+      {
+        "Type": "added",
+        "Description": "Website"
+      }
+    ]
+  }
+]

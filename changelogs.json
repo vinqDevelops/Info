@@ -1,5 +1,29 @@
 [
   {
+    "Id": "2",
+    "Version": "SB",
+    "Date": "27 August 2025",
+    "Type": "both",
+    "Changes": [
+      {
+        "Type": "added",
+        "Description": "The glove \u0022Bounty\u0022 is now supported for Slap Farming"
+      },
+      {
+        "Type": "added",
+        "Description": "Antibus: Deletes the Bus, making you invulnerable to it."
+      },
+      {
+        "Type": "added",
+        "Description": "The glove \u0022Bounty\u0022 has been added to Slap Aura Support List"
+      },
+      {
+        "Type": "improved",
+        "Description": "The VINQ SR Rework is coming soon. We are almost done with rewriting the entire thing!"
+      }
+    ]
+  },
+  {
     "Id": "1",
     "Version": "Website",
     "Date": "24 August 2025",

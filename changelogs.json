@@ -1,5 +1,33 @@
 [
   {
+    "Id": "3",
+    "Version": "VINQ SB (Halloween)",
+    "Date": "24 October 2025",
+    "Type": "both",
+    "Changes": [
+      {
+        "Type": "added",
+        "Description": "Get All Candy Corn"
+      },
+      {
+        "Type": "added",
+        "Description": "Auto Get All Candy Corn"
+      },
+      {
+        "Type": "added",
+        "Description": "Teleports to the halloween stuff on default area"
+      },
+      {
+        "Type": "added",
+        "Description": "support for harvester glove place"
+      },
+      {
+        "Type": "improved",
+        "Description": "NOTE: At the state of this message, harvester is unobtainable!"
+      }
+    ]
+  },
+  {
     "Id": "2",
     "Version": "SB",
     "Date": "27 August 2025",

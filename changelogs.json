@@ -1,5 +1,29 @@
 [
   {
+    "Id": "4",
+    "Version": "4 SB",
+    "Date": "17 December 2025",
+    "Type": "both",
+    "Changes": [
+      {
+        "Type": "removed",
+        "Description": "Halloween stuff"
+      },
+      {
+        "Type": "improved",
+        "Description": "Everything related to Keys/Licenses has been improved, and should no longer have any issues."
+      },
+      {
+        "Type": "improved",
+        "Description": "Everything related to Combat has been moved to its own Tab, no longer cramping up the Main tab"
+      },
+      {
+        "Type": "improved",
+        "Description": "alot more"
+      }
+    ]
+  },
+  {
     "Id": "3",
     "Version": "VINQ SB (Halloween)",
     "Date": "24 October 2025",
